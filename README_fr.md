@@ -268,6 +268,25 @@ Ce backend est conçu pour fonctionner avec le [Frontend Color Tools](https://gi
 
 Ce projet a été développé dans le cadre d'un mémoire de bachelor au SAE Institute de Genève, axé sur l'optimisation énergétique pour les écrans OLED grâce à l'analyse intelligente des couleurs.
 
+### Licence
+
+Ce projet est sous licence **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+
+**Ce que cela signifie :**
+- ✅ **Vous êtes libres de :** Utiliser, copier, modifier et distribuer ce code
+- ✅ **Attribution requise :** Vous devez créditer et citer ce travail de manière appropriée
+- ✅ **Usage éducatif et recherche :** Entièrement autorisé pour les projets académiques et personnels
+- ❌ **Pas d'usage commercial :** L'utilisation commerciale, la revente ou la génération de profit est interdite
+- ❌ **Aucune garantie :** Le logiciel est fourni "tel quel" sans aucune garantie
+
+**Comment citer ce travail :**
+```
+Boehi, T. (2025). Color Tools Backend - API d'Efficacité Énergétique OLED. 
+SAE Institute Genève. Disponible sur : https://github.com/thboehi/color-tools-backend
+```
+
+Pour les demandes de licence commerciale, veuillez contacter : [thoma@thbo.ch](mailto:thoma@thbo.ch)
+
 ## 🌱 Impact Environnemental
 
 Chaque appel API contribue à sensibiliser au design web économe en énergie. En fournissant aux développeurs un retour en temps réel sur leurs choix de couleurs, ce backend aide à créer un écosystème numérique plus durable.
